@@ -25,7 +25,7 @@ mongoose.connect('mongodb+srv://tahseenislamian900:tahseen176@cluster0.eowrgx8.m
 // Route to display the form to create a new user
 app.get('/', (req, res) => {
   res.send(`
-    <h1>Great things takes times</h1>
+    <h1>Great things takes time</h1>
     <h1>Enter Username</h1>
     <form method="POST" action="/add-user">
       <input type="text" name="username" placeholder="Enter your username" required>
