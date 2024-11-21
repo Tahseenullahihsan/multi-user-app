@@ -90,7 +90,7 @@ app.get('/', (req, res) => {
       }
     </style>
     <div class="container">
-      <img src="https://via.placeholder.com/100" alt="Your Photo" />
+      <img src="https://images.unsplash.com/photo-1667372335962-5fd503a8ae5b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Your Photo" />
       <h1>Welcome to My Application</h1>
       <h2>Integration with Jenkins - My DevOps Journey</h2>
       <p>Start by entering a username below:</p>
